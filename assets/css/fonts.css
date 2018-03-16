@@ -9,3 +9,58 @@
 	font-style: normal;
 	font-weight: 400;
 }
+html,
+body{
+	width: 100%;
+	margin: 0;
+
+}
+h1,h3{ margin:0;}
+
+.header{
+	background-color: #AD0035;
+	text-align: center;
+	padding: 40px 0 80px 0;
+}
+.header h1{
+	font-family: 'El Rio Lobo';
+	color:#F9B11E;
+}
+.header h3{
+	color: #fff;
+	padding-top: 20px;
+}
+
+.cuzco{
+	background-color: #0084C1;
+	padding: 20px;
+	text-align: center;
+}
+.cuzco img{
+	width: 60%;
+}
+.izma{
+	background-image: url('../images/cuzco2.jpg');
+	background-size: cover;
+	min-height: 700px;
+	color: #fff;
+	text-align: right;
+}
+.izma h1{
+	font-family: 'El Rio Lobo';
+	color:#F9B11E;
+	margin: 0;
+}
+
+
+.texto{
+	font-size: 80px;
+
+	font-family: 'El Rio Lobo';
+}
+.titulo-precio{
+	text-align: center;
+}
+.precios{
+	padding-left: 400px;
+}
